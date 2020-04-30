@@ -1,7 +1,4 @@
 usethis::use_git()
-usethis::use_git_ignore("data/")
-usethis::use_git_ignore("GRASS_TEMP/")
-
 usethis::use_github()
 
 
